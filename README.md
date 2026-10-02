@@ -11,6 +11,7 @@ Pin reference images on your HUD while you build — like a floating blueprint.
 | **Version** | `1.0.0` |
 | **Author** | Goblin_Thug |
 | **License** | [CC0-1.0](LICENSE) |
+| **Issues** | [GitHub Issues](https://github.com/GoblinThug/Blueprint-HUD/issues) |
 
 ---
 

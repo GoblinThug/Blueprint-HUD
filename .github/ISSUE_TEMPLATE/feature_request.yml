@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest an improvement or new feature
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the feature you'd like.
+        Опиши идею улучшения (можно по-русски).
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Проблема
+      description: What problem does this solve?
+      placeholder: "I'm always frustrated when…"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution / Предложение
+      description: How should it work?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives / Альтернативы
+      description: Other approaches you've considered.
+  - type: textarea
+    id: extras
+    attributes:
+      label: Extra context / Дополнительно
+      description: Mockups, examples, related mods, etc.

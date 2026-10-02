@@ -7,6 +7,11 @@
 	"authors": [
 		"Goblin_Thug"
 	],
+	"contact": {
+		"homepage": "https://github.com/GoblinThug/Blueprint-HUD",
+		"sources": "https://github.com/GoblinThug/Blueprint-HUD",
+		"issues": "https://github.com/GoblinThug/Blueprint-HUD/issues"
+	},
 	"license": "CC0-1.0",
 	"icon": "assets/blueprint-hud/icon.png",
 	"environment": "client",

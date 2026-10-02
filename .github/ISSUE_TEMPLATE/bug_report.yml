@@ -1,0 +1,55 @@
+name: Bug report
+description: Something is broken or not working as expected
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug.
+        Please fill in the sections below (English preferred, Russian is fine).
+        Спасибо за репорт. Можно писать на русском.
+  - type: input
+    id: version
+    attributes:
+      label: Mod version / Версия мода
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft version / Версия Minecraft
+      placeholder: "26.2"
+    validations:
+      required: true
+  - type: input
+    id: loader
+    attributes:
+      label: Fabric Loader / Fabric API
+      placeholder: "Loader 0.19.5 · Fabric API 0.161.0+26.2"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened? / Что произошло?
+      description: Steps to reproduce, expected vs actual behavior.
+      placeholder: |
+        1. …
+        2. …
+        Expected / Ожидал:
+        Actual / Получил:
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Логи
+      description: Paste relevant crash or latest.log excerpts (or attach files).
+      render: text
+  - type: textarea
+    id: extras
+    attributes:
+      label: Extra info / Дополнительно
+      description: Screenshots, other mods, OS, etc.
