@@ -4,10 +4,14 @@
 build/
 out/
 classes/
+bin/
 
 # eclipse
 
 *.launch
+.settings/
+.classpath
+.project
 
 # idea
 
@@ -16,21 +20,23 @@ classes/
 *.ipr
 *.iws
 
-# vscode
+# vscode / cursor
 
-.settings/
 .vscode/
-bin/
-.classpath
-.project
+.cursor/
 
-# macos
+# os
 
-*.DS_Store
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
 
-# fabric
+# fabric / loom
 
 run/
+runs/
+remappedSrc/
 
 # java
 
