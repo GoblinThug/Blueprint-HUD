@@ -8,7 +8,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x-62B47A?style=flat-square)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-DBB69B?style=flat-square)](https://fabricmc.net/)
-[![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/GoblinThug/Blueprint-HUD?style=flat-square)](https://github.com/GoblinThug/Blueprint-HUD/issues)
 
 [English](#english) · [Русский](#русский)
@@ -63,7 +63,7 @@ Output: `build/libs/Blueprint-HUD-1.0.0.jar`
 
 ### 📜 License
 
-[CC0 1.0 Universal](LICENSE) — public domain dedication.
+[MIT License](LICENSE) — free to use, modify, and distribute with attribution.
 
 ---
 
@@ -113,4 +113,4 @@ gradlew.bat build
 
 ### 📜 Лицензия
 
-[CC0 1.0 Universal](LICENSE) — общественное достояние.
+[MIT License](LICENSE) — свободно используй, изменяй и распространяй с указанием авторства.
