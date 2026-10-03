@@ -6,7 +6,7 @@
 
 **Pin reference images on your HUD while you build — like a floating blueprint.**
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x-62B47A?style=flat-square)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-26.x-62B47A?style=flat-square)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-DBB69B?style=flat-square)](https://fabricmc.net/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/GoblinThug/Blueprint-HUD?style=flat-square)](https://github.com/GoblinThug/Blueprint-HUD/issues)
